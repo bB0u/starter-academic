@@ -1,37 +1,36 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Alexander Magerl
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Student M.Sc. Water Science and Engineering
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: Karlsruhe Institute for Technology
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Machine Learning
+- Information Theory
+- Groundwater Modeling
+- Sports 
+- Woodworking
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: Water Science & Engineering    
+    institution: Karlsruhe Institute for Technology
+    year: 2019 - today
+  - course: BSc in Geoecology
+    institution: University of Bayreuth
+    year: 2019
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -69,6 +68,4 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+My name is Alexander Magerl I am a bavarian guy from Landshut, currently living in Karlsruhe. I started off wanting to become a field scientist and now I am more and more tangled in programming and machine learning. I use this site to share some aspects of my research but also to show some DIY projects. 
